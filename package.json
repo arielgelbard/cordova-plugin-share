@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-share",
+  "version": "0.0.1",
+  "description": "Cordova Plugin iOS Share Sheet",
+  "cordova": {
+    "id": "cordova-plugin-share",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markmarijnissen/cordova-plugin-share.git"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-ios",
+    "share"
+  ],
+  "license": "Apache-2.0"
+}
